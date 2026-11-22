@@ -86,3 +86,5 @@ def api_delete_memo(id):
 
 if __name__ == "__main__":
     app.run(debug=True)
+    
+"""コメント（git diff確認用）"""
